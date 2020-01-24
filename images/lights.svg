@@ -1,0 +1,667 @@
+<svg id="dj_lights" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 504 288">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54, .cls-55, .cls-56, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #0a0026;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-5 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke: #ff2748;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54, .cls-55, .cls-56, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-32, .cls-6 {
+        stroke-width: 29.1px;
+        opacity: 0;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54, .cls-6, .cls-7, .cls-8, .cls-9 {
+        isolation: isolate;
+      }
+
+      .cls-33, .cls-7 {
+        stroke-width: 27.98px;
+        opacity: 0;
+      }
+
+      .cls-34, .cls-8 {
+        stroke-width: 26.86px;
+        opacity: 0;
+      }
+
+      .cls-35, .cls-9 {
+        stroke-width: 25.74px;
+        opacity: 0;
+      }
+
+      .cls-10, .cls-36 {
+        stroke-width: 24.62px;
+        opacity: 0;
+      }
+
+      .cls-11, .cls-37 {
+        stroke-width: 23.5px;
+        opacity: 0.01;
+      }
+
+      .cls-12, .cls-38 {
+        stroke-width: 22.38px;
+        opacity: 0.01;
+      }
+
+      .cls-13, .cls-39 {
+        stroke-width: 21.26px;
+        opacity: 0.01;
+      }
+
+      .cls-14, .cls-40 {
+        stroke-width: 20.15px;
+        opacity: 0.01;
+      }
+
+      .cls-15, .cls-41 {
+        stroke-width: 19.03px;
+        opacity: 0.01;
+      }
+
+      .cls-16, .cls-42 {
+        stroke-width: 17.91px;
+        opacity: 0.02;
+      }
+
+      .cls-17, .cls-43 {
+        stroke-width: 16.79px;
+        opacity: 0.02;
+      }
+
+      .cls-18, .cls-44 {
+        stroke-width: 15.67px;
+        opacity: 0.02;
+      }
+
+      .cls-19, .cls-45 {
+        stroke-width: 14.55px;
+        opacity: 0.03;
+      }
+
+      .cls-20, .cls-46 {
+        stroke-width: 13.43px;
+        opacity: 0.03;
+      }
+
+      .cls-21, .cls-47 {
+        stroke-width: 12.31px;
+        opacity: 0.04;
+      }
+
+      .cls-22, .cls-48 {
+        stroke-width: 11.19px;
+        opacity: 0.04;
+      }
+
+      .cls-23, .cls-49 {
+        stroke-width: 10.07px;
+        opacity: 0.05;
+      }
+
+      .cls-24, .cls-50 {
+        stroke-width: 8.95px;
+        opacity: 0.06;
+      }
+
+      .cls-25, .cls-51 {
+        stroke-width: 7.83px;
+        opacity: 0.07;
+      }
+
+      .cls-26, .cls-52 {
+        stroke-width: 6.72px;
+        opacity: 0.08;
+      }
+
+      .cls-27, .cls-53 {
+        stroke-width: 5.6px;
+        opacity: 0.1;
+      }
+
+      .cls-28, .cls-54 {
+        stroke-width: 4.48px;
+        opacity: 0.15;
+      }
+
+      .cls-29, .cls-55 {
+        stroke-width: 3.36px;
+      }
+
+      .cls-30 {
+        stroke: #ffe2e6;
+      }
+
+      .cls-30, .cls-56 {
+        stroke-width: 2.01px;
+      }
+
+      .cls-31 {
+        stroke: #fff;
+        stroke-width: 0.67px;
+      }
+
+      .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54, .cls-55 {
+        stroke: #0055d7;
+      }
+
+      .cls-56 {
+        stroke: #dde8fa;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="504" height="288"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="-514.44" cy="506.42" r="108.85" gradientTransform="matrix(1.49, 0, 0, -1.2, 915.59, 754.13)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b70009"/>
+      <stop offset="0.06" stop-color="#a50008"/>
+      <stop offset="0.23" stop-color="#730006"/>
+      <stop offset="0.4" stop-color="#4a0004"/>
+      <stop offset="0.56" stop-color="#2a0002"/>
+      <stop offset="0.72" stop-color="#130001"/>
+      <stop offset="0.87" stop-color="#050000"/>
+      <stop offset="1"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="-360.51" cy="506.42" r="108.85" gradientTransform="matrix(1.49, 0, 0, -1.2, 915.59, 754.13)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#006eb0"/>
+      <stop offset="0.04" stop-color="#0067a5"/>
+      <stop offset="0.21" stop-color="#004873"/>
+      <stop offset="0.38" stop-color="#002e4a"/>
+      <stop offset="0.55" stop-color="#001a2a"/>
+      <stop offset="0.72" stop-color="#000c13"/>
+      <stop offset="0.87" stop-color="#000305"/>
+      <stop offset="1"/>
+    </radialGradient>
+  </defs>
+  <title>lights</title>
+  <g id="clipping">
+    <rect id="SVGID" class="cls-2" width="504" height="288"/>
+    <g class="cls-3">
+      <ellipse class="cls-4" cx="146.6" cy="144.2" rx="162.7" ry="131.1"/>
+    </g>
+    <g class="cls-3">
+      <ellipse class="cls-5" cx="376.7" cy="144.2" rx="162.7" ry="131.1"/>
+    </g>
+    <g class="cls-3">
+      <g id="red_lights">
+        <g>
+          <polyline class="cls-6" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-7" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-8" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-9" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-10" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-11" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-12" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-13" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-14" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-15" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-16" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-17" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-18" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-19" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-20" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-21" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-22" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-23" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-24" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-25" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-26" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-27" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-28" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-29" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-30" points="176.5 200.7 199 144 176.5 87.3"/>
+          <polyline class="cls-31" points="176.5 200.7 199 144 176.5 87.3"/>
+        </g>
+        <g>
+          <polyline class="cls-6" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-7" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-8" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-9" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-10" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-11" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-12" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-13" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-14" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-15" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-16" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-17" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-18" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-19" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-20" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-21" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-22" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-23" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-24" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-25" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-26" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-27" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-28" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-29" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-30" points="162.4 207.1 189.8 144 162.4 80.9"/>
+          <polyline class="cls-31" points="162.4 207.1 189.8 144 162.4 80.9"/>
+        </g>
+        <g>
+          <polyline class="cls-6" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-7" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-8" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-9" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-10" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-11" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-12" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-13" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-14" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-15" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-16" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-17" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-18" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-19" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-20" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-21" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-22" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-23" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-24" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-25" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-26" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-27" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-28" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-29" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-30" points="144.7 215.2 178.7 144 144.7 72.8"/>
+          <polyline class="cls-31" points="144.7 215.2 178.7 144 144.7 72.8"/>
+        </g>
+        <g>
+          <polyline class="cls-6" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-7" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-8" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-9" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-10" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-11" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-12" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-13" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-14" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-15" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-16" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-17" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-18" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-19" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-20" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-21" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-22" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-23" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-24" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-25" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-26" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-27" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-28" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-29" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-30" points="121.9 225.6 165.2 144 121.9 62.4"/>
+          <polyline class="cls-31" points="121.9 225.6 165.2 144 121.9 62.4"/>
+        </g>
+        <g>
+          <polyline class="cls-6" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-7" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-8" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-9" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-10" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-11" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-12" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-13" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-14" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-15" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-16" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-17" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-18" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-19" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-20" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-21" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-22" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-23" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-24" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-25" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-26" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-27" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-28" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-29" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-30" points="91.2 239.7 148.3 144 91.2 48.3"/>
+          <polyline class="cls-31" points="91.2 239.7 148.3 144 91.2 48.3"/>
+        </g>
+        <g>
+          <polyline class="cls-6" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-7" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-8" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-9" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-10" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-11" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-12" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-13" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-14" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-15" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-16" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-17" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-18" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-19" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-20" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-21" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-22" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-23" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-24" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-25" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-26" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-27" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-28" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-29" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-30" points="47.6 259.6 126.5 144 47.6 28.4"/>
+          <polyline class="cls-31" points="47.6 259.6 126.5 144 47.6 28.4"/>
+        </g>
+        <g>
+          <polyline class="cls-6" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-7" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-8" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-9" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-10" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-11" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-12" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-13" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-14" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-15" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-16" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-17" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-18" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-19" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-20" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-21" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-22" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-23" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-24" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-25" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-26" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-27" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-28" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-29" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-30" points="-18.8 290 97.5 144 -18.8 -2"/>
+          <polyline class="cls-31" points="-18.8 290 97.5 144 -18.8 -2"/>
+        </g>
+        <g>
+          <polyline class="cls-6" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-7" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-8" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-9" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-10" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-11" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-12" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-13" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-14" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-15" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-16" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-17" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-18" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-19" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-20" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-21" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-22" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-23" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-24" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-25" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-26" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-27" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-28" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-29" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-30" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+          <polyline class="cls-31" points="-132.6 342.1 56.8 144 -132.6 -54.1"/>
+        </g>
+      </g>
+    </g>
+    <g class="cls-3">
+      <g id="blue_lights">
+        <g>
+          <polyline class="cls-32" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-33" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-34" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-35" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-36" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-37" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-38" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-39" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-40" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-41" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-42" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-43" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-44" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-45" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-46" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-47" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-48" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-49" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-50" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-51" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-52" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-53" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-54" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-55" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-56" points="328.7 200.7 306.2 144 328.7 87.3"/>
+          <polyline class="cls-31" points="328.7 200.7 306.2 144 328.7 87.3"/>
+        </g>
+        <g>
+          <polyline class="cls-32" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-33" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-34" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-35" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-36" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-37" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-38" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-39" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-40" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-41" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-42" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-43" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-44" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-45" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-46" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-47" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-48" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-49" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-50" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-51" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-52" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-53" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-54" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-55" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-56" points="342.8 207.1 315.4 144 342.8 80.9"/>
+          <polyline class="cls-31" points="342.8 207.1 315.4 144 342.8 80.9"/>
+        </g>
+        <g>
+          <polyline class="cls-32" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-33" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-34" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-35" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-36" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-37" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-38" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-39" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-40" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-41" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-42" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-43" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-44" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-45" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-46" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-47" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-48" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-49" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-50" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-51" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-52" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-53" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-54" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-55" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-56" points="360.5 215.2 326.5 144 360.5 72.8"/>
+          <polyline class="cls-31" points="360.5 215.2 326.5 144 360.5 72.8"/>
+        </g>
+        <g>
+          <polyline class="cls-32" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-33" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-34" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-35" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-36" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-37" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-38" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-39" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-40" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-41" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-42" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-43" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-44" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-45" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-46" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-47" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-48" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-49" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-50" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-51" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-52" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-53" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-54" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-55" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-56" points="383.3 225.6 340 144 383.3 62.4"/>
+          <polyline class="cls-31" points="383.3 225.6 340 144 383.3 62.4"/>
+        </g>
+        <g>
+          <polyline class="cls-32" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-33" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-34" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-35" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-36" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-37" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-38" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-39" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-40" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-41" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-42" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-43" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-44" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-45" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-46" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-47" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-48" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-49" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-50" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-51" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-52" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-53" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-54" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-55" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-56" points="414 239.7 356.9 144 414 48.3"/>
+          <polyline class="cls-31" points="414 239.7 356.9 144 414 48.3"/>
+        </g>
+        <g>
+          <polyline class="cls-32" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-33" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-34" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-35" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-36" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-37" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-38" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-39" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-40" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-41" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-42" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-43" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-44" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-45" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-46" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-47" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-48" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-49" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-50" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-51" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-52" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-53" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-54" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-55" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-56" points="457.6 259.6 378.7 144 457.6 28.4"/>
+          <polyline class="cls-31" points="457.6 259.6 378.7 144 457.6 28.4"/>
+        </g>
+        <g>
+          <polyline class="cls-32" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-33" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-34" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-35" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-36" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-37" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-38" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-39" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-40" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-41" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-42" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-43" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-44" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-45" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-46" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-47" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-48" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-49" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-50" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-51" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-52" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-53" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-54" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-55" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-56" points="524 290 407.7 144 524 -2"/>
+          <polyline class="cls-31" points="524 290 407.7 144 524 -2"/>
+        </g>
+        <g>
+          <polyline class="cls-32" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-33" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-34" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-35" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-36" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-37" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-38" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-39" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-40" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-41" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-42" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-43" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-44" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-45" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-46" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-47" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-48" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-49" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-50" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-51" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-52" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-53" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-54" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-55" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-56" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+          <polyline class="cls-31" points="637.8 342.1 448.4 144 637.8 -54.1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
